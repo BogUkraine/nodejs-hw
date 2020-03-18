@@ -1,0 +1,49 @@
+{
+  "logs": [
+    {
+      "method": "GET",
+      "url": "/",
+      "time": 1584541697557
+    },
+    {
+      "method": "GET",
+      "url": "/logs",
+      "time": 1584541962809
+    },
+    {
+      "method": "GET",
+      "url": "/logs",
+      "time": 1584541972870
+    },
+    {
+      "method": "GET",
+      "url": "/log",
+      "time": 1584541976207
+    },
+    {
+      "method": "GET",
+      "url": "/log",
+      "time": 1584542004913
+    },
+    {
+      "method": "GET",
+      "url": "/log",
+      "time": 1584542080798
+    },
+    {
+      "method": "GET",
+      "url": "/logs",
+      "time": 1584542083212
+    },
+    {
+      "method": "GET",
+      "url": "/logs/5",
+      "time": 1584542144779
+    },
+    {
+      "method": "GET",
+      "url": "/log",
+      "time": 1584542291947
+    }
+  ]
+}
